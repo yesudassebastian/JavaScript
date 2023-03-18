@@ -8,4 +8,4 @@ let age = presentyear-birthyear
 // console.log(age)
 let grade = 5
 
-console.log("My name is "+fullname+". "+"My age is "+age+". "+"I'm studying in "+grade+"th grade"+".")
+console.log(`My name is ${fullname}. My age is ${age}. I am studying in ${grade}th grade.`)
