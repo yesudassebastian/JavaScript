@@ -43,3 +43,31 @@ function addTwoNumbers(x,y){
 }
 
 console.log(addTwoNumbers(98,73))
+
+if (100==100){
+    var outcome ="correct"
+}
+
+console.log(outcome)
+
+if ("90>89"){
+    var coutcome = "correct";
+} else {
+    var outcome = "not correct";
+}
+
+console.log(outcome)
+
+var course = {
+    name: "Introduction to Javascript" ,
+    startTime: 14,
+    endTime: 22,
+    tutor: "Vishnu Prakash"
+}
+
+course.startTime=15
+
+console.log(course)
+
+
+
