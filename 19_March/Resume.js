@@ -3,7 +3,7 @@ let secondName = "Nambiar";
 let fullName = firstName + " " + secondName;
 
 let birthDate = 18;
-let birthMonth = 02;
+let birthMonth = "02";
 let birthYear = 2000;
 let currentYear = 2023;
 
