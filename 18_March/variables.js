@@ -9,5 +9,3 @@ let age = presentyear-birthyear
 let grade = 5
 
 console.log(`My name is ${fullname}. My age is ${age}. I am studying in ${grade}th grade.`)
-
-//the end
